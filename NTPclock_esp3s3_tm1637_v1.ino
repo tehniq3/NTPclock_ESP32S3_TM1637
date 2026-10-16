@@ -1,5 +1,5 @@
 // ceas NTP cu ESP32-S3 Supermini si afisaj din 4 cifre cu TM1637
-// implicare: Nicu FLORICA (niq_ro), munca: Gemini, teste rele: niq_ro
+// implicare: Nicu FLORICA (niq_ro), munca: Gemini, teste reale: niq_ro
 // v.0 - versiune initiala
 // v.0a - conectare la 2 retele wifi, schimbare intensitatea luminasa zi-noapte, verificare conectare la retea
 // v.1 - adaugare informatii de la open-meteo
