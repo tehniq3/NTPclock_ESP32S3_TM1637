@@ -1,0 +1,6 @@
+
+ESP32-S3 Supermini:
+https://www.espboards.dev/esp32/esp32-s3-super-mini/
+
+TM1637 4-digit 7-segment led module:
+https://grobotronics.com/led-display-4-digit-tm1637-red.html?sl=en&srsltid=AU7gw4V2mK8IM3KdS4dJVkvtkaezvu7Vnrn5SYvySU9UcuaeP9xnFPTK
